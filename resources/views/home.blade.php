@@ -12,6 +12,8 @@
       </div>
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
+        <li class=""><a href="#">Hobbies</a></li>
+        <li class=""><a href="#">Contact</a></li>
       </ul>
     </div>
   </nav>
