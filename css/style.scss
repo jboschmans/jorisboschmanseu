@@ -1,0 +1,36 @@
+$pageSize : 800px;
+$pageTopMargin : 100px;
+
+
+.body-top-margin{
+  height: $pageTopMargin;
+}
+
+#page1{
+  height: $pageSize;
+  // a .class{
+  //   padding-top: $pageTopMargin;
+  // }
+
+}
+
+#page2{
+  height: $pageSize;
+
+  // padding-top: $pageTopMargin;
+}
+
+#page3{
+  height: $pageSize;
+  // padding-top: $pageTopMargin;
+}
+
+#page4{
+  height: $pageSize;
+  // padding-top: $pageTopMargin;
+}
+
+#page5{
+  height: $pageSize;
+  // padding-top: $pageTopMargin;
+}
