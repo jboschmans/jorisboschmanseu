@@ -81,7 +81,7 @@
                         <i class="fa fa-bicycle fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Cycling</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">I love a challenge. That's how I ended up cycling my way through France, all the way to Spain.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -89,7 +89,7 @@
                         <i class="fa fa-music fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Playing Guitar</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">I spent a year in London, learning how to play the guitar and sightseeing across the city.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -97,7 +97,7 @@
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">IT</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">IT is my true passion. Even after a day of working, I still come home and open up my laptop to keep learning about development.</p>
                 </div>
             </div>
         </div>
@@ -422,27 +422,14 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Your Website 2016</span>
-                </div>
+                <div class="col-md-4"></div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        <li><a target="_blank" href="https://www.linkedin.com/in/joris-boschmans-8884b813a/"><i class="fa fa-linkedin"></i></a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
-                        </li>
-                        <li><a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                </div>
+                <div class="col-md-4"></div>
             </div>
         </div>
     </footer>
