@@ -42,7 +42,7 @@
                         <a class="page-scroll" href="#skills">Skills</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">Education</a>
+                        <a class="page-scroll" href="#education">Education</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -65,7 +65,7 @@
         </div>
     </header>
 
-    <!-- Services Section -->
+    <!-- Hobbies Section -->
     <section id="hobbies">
         <div class="container">
             <div class="row">
@@ -97,7 +97,7 @@
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">IT</h4>
-                    <p class="text-muted">IT is my true passion. Even after a day of working, I still come home and open up my laptop to keep learning about development.</p>
+                    <p class="text-muted">IT is my true passion. Even after a day of work, I still come home and open up my laptop to keep learning about development.</p>
                 </div>
             </div>
         </div>
@@ -111,8 +111,8 @@
                     <h2 class="section-heading">Portfolio</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
-            </div>
-            <div class="row">
+            </div><!--
+             <div class="row">
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -126,7 +126,7 @@
                         <h4>Round Icons</h4>
                         <p class="text-muted">Graphic Design</p>
                     </div>
-                </div>
+                </div><!--
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -140,7 +140,7 @@
                         <h4>Startup Framework</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
-                </div>
+                </div><!--
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -154,7 +154,7 @@
                         <h4>Treehouse</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
-                </div>
+                </div><!--
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -168,7 +168,7 @@
                         <h4>Golden</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
-                </div>
+                </div><!--
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -182,7 +182,7 @@
                         <h4>Escape</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
-                </div>
+                </div><!--
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -196,17 +196,17 @@
                         <h4>Dreams</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
 
-    <!-- About Section -->
+    <!-- Skills Section -->
     <section id="skills">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About</h2>
+                    <h2 class="section-heading">Skills</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
@@ -215,75 +215,84 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                <img class="img-circle img-responsive" src="img/about/6.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2009-2011</h4>
-                                    <h4 class="subheading">Our Humble Beginnings</h4>
+                                    <h4 class="subheading">Frontend web development</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">HTML, Sass, Bootstrap, jQuery, AngularJS.</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                                <img class="img-circle img-responsive" src="img/about/7.png" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>March 2011</h4>
-                                    <h4 class="subheading">An Agency is Born</h4>
+                                    <h4 class="subheading">Backend web development</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">NodeJS, ExpressJS, PHP, CodeIgniter.</p>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                                <img class="img-circle img-responsive" src="img/about/8.png" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4 class="subheading">Database Systems</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">MondoDb, Mongoose, MySQL, MS SQL</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                                <img class="img-circle img-responsive" src="img/about/9.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
+                                    <h4 class="subheading">Mobile app development</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">Android, iOS</p>
                                 </div>
                             </div>
                         </li>
-                        <li class="timeline-inverted">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/11.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 class="subheading">And more...</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Java, C#, Git</p>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>Be Part
                                     <br>Of Our
                                     <br>Story!</h4>
                             </div>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
+    <!-- Education Section
+    <section id="education" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -346,7 +355,7 @@
         </div>
     </section>
 
-    <!-- Clients Aside -->
+    <!-- Clients Aside
     <aside class="clients">
         <div class="container">
             <div class="row">
@@ -379,8 +388,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">Contact Me</h2>
+                    <h3 class="section-subheading text-muted">Do you want to know more about me? Send me a message in the form below.</h3>
                 </div>
             </div>
             <div class="row">
@@ -397,7 +406,7 @@
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="form-group">
-                                    <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                    <input type="tel" class="form-control" placeholder="Your Phone" id="phone">
                                     <p class="help-block text-danger"></p>
                                 </div>
                             </div>
@@ -419,6 +428,7 @@
         </div>
     </section>
 
+    <!-- Footer -->
     <footer>
         <div class="container">
             <div class="row">

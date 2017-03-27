@@ -396,6 +396,7 @@ section h3.section-subheading {
   clear: both;
 }
 .timeline > li .timeline-panel {
+  margin-top: 10px;
   width: 100%;
   float: right;
   padding: 0 20px 0 100px;
@@ -464,6 +465,9 @@ section h3.section-subheading {
   margin-bottom: 0;
 }
 @media (min-width: 768px) {
+  .timeline > li .timeline-panel {
+    margin-top: 25px;
+  }
   .timeline:before {
     left: 50%;
   }
@@ -495,6 +499,9 @@ section h3.section-subheading {
   }
 }
 @media (min-width: 992px) {
+  .timeline > li .timeline-panel {
+    margin-top: 40px;
+  }
   .timeline > li {
     min-height: 150px;
   }
@@ -516,6 +523,9 @@ section h3.section-subheading {
   }
 }
 @media (min-width: 1200px) {
+  .timeline > li .timeline-panel {
+    margin-top: 50px;
+  }
   .timeline > li {
     min-height: 170px;
   }
