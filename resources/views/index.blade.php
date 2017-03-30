@@ -36,13 +36,13 @@
                         <a class="page-scroll" href="#hobbies">Hobbies</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="#education">Education</a>
                     </li>
+                    <!-- <li>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li> -->
                     <li>
                         <a class="page-scroll" href="#skills">Skills</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#education">Education</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -103,7 +103,7 @@
         </div>
     </section>
 
-    <!-- Portfolio Grid Section -->
+    <!-- Portfolio Grid Section
     <section id="portfolio" class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -196,7 +196,67 @@
                         <h4>Dreams</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>-->
+
+    <!-- Education Section -->
+    <section id="education" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Education</h2>
+                    <h3 class="section-subheading text-muted">Where I learned a lot about development and life.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/4.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Heilige Familie</h4>
+                        <p class="text-muted">Science-Math &mdash; Graduated in 2010</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/5.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Hogent</h4>
+                        <p class="text-muted">Bachelor I.T. Software/Webapps &mdash; Will graduate in 2017</p>
+                    </div>
+                </div>
+                <div class="col-sm-2"></div>
+                <!-- <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Diana Pertersen</h4>
+                        <p class="text-muted">Lead Developer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
                 </div> -->
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                  <div class="row">
+                    <div class="col-xs-2">
+                      <i class="fa fa-quote-left fa-3x" style="color:gray;"></i>
+                    </div>
+                    <div class="col-xs-8">
+                      <p class="large text-muted">Education is the most powerful weapon which you can use to change the world &mdash; Nelson Mandela</p>
+                    </div>
+                    <div class="col-xs-2">
+                      <i class="fa fa-quote-right fa-3x" style="color:gray;"></i>
+                    </div>
+                  </div>
+                </div>
             </div>
         </div>
     </section>
@@ -207,7 +267,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Skills</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">The programming languages, frameworks and libraries that I can work with.</h3>
                 </div>
             </div>
             <div class="row">
@@ -291,69 +351,7 @@
         </div>
     </section>
 
-    <!-- Education Section
-    <section id="education" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Kay Garland</h4>
-                        <p class="text-muted">Lead Designer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Larry Parker</h4>
-                        <p class="text-muted">Lead Marketer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Diana Pertersen</h4>
-                        <p class="text-muted">Lead Developer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <!-- Clients Aside
     <aside class="clients">
